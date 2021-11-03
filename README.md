@@ -1,5 +1,4 @@
 # MyBlog
-Mi blog personal!
 Hi there!
 
 Im Irene Pellejero Lacueva, I'm a student of computer technology in IES Valle del Cidacos.
